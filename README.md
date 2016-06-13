@@ -1,4 +1,4 @@
-# typescipt boilerplate
+# typescript boilerplate
 
 - Run `npm install` to install the dependencies and build the application.
 - Run `npm start` or `npm run start` to run the application.
